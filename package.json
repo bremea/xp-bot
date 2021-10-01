@@ -1,0 +1,19 @@
+{
+  "name": "xpbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bremea/xp-bot.git"
+  },
+  "author": "bremea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bremea/xp-bot/issues"
+  },
+  "homepage": "https://github.com/bremea/xp-bot#readme"
+}
