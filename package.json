@@ -2,7 +2,7 @@
   "name": "xpbot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "build/bot.js",
   "scripts": {
     "test": "test"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bremea/xp-bot/issues"
   },
-  "homepage": "https://github.com/bremea/xp-bot#readme"
+  "homepage": "https://github.com/bremea/xp-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security"
+  }
 }
